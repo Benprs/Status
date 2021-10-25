@@ -44,9 +44,7 @@ params:
   logo: /img/logo_long_white.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
-  customTabs:
-    - name: Site principal
-      link: https://stats.uptimerobot.com/2GwkBckjxX/789539871
+  customTabs: []
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
