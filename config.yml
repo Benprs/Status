@@ -2,7 +2,7 @@ title: UPRP - Status
 buildFuture: true
 defaultContentLanguage: fr
 languageCode: fr
-baseURL: https://status.up-rp.fr/
+baseURL: https://status.up-rp.fr
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
